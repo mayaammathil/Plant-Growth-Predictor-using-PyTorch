@@ -13,6 +13,6 @@ Predictive Inference: Includes a dedicated "Evaluation Mode" to predict growth f
 
 The "Brain" of this project learns the following biological equation:
 
-Height = (W_1 \times Sunlight) + (W_2 \times Water) + Bias
+Height = (W_1 × Sunlight) + (W_2 × Water) + Bias
 
 Where W_n represents the sensitivity of the plant species to that specific resource.
